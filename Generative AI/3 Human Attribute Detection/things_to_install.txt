@@ -1,0 +1,5 @@
+pip install streamlit
+pip install google-generativeai
+pip install pillow(optional if error)
+
+#To Get the API: Search: makersuite google ai studio (AIzaSyCozONxrvRmZ1AKeFlswg9En5-_tlnrMDw)

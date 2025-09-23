@@ -5,7 +5,7 @@ import os
 import PIL.Image
 
 # Set api key
-# api = "AIzaSyCozONxrvRmZ1AKeFlswg9En5-_tlnrMDw"
+
 os.environ['GOOGLE_API_KEY']= "YOUR GOOGLE GEMINI KEY HERE..."
 genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
